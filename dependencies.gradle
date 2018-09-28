@@ -1,0 +1,15 @@
+ext.versions = [
+        minSdk            : 16,
+        compileSdk        : 27,
+        targetSdk         : 27,
+        buildTools        : '27.1.1',
+
+        publishVersion    : '1.0',
+        publishVersionCode: 1,
+        supportLib        : '25.3.1',
+
+        butterKnife : '8.8.1',
+        dagger      : '2.12',
+        rxjava      : '2.1.9',
+        rxandroid   : '2.0.2'
+]
